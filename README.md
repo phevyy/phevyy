@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/736x/a4/01/58/a40158c5333b4dbd4b76c9325c7baddc.jpg)
+![MasterHead](https://i.pinimg.com/736x/60/e0/f3/60e0f33bb4dbe6a52ca312fc247a0d21.jpg)
 
 <h1 align="center">Hi 👋, I'm Fikret Emre</h1>
 <h3 align="center">I'm a computer engineering student</h3>
