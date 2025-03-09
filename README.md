@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phevyy&show_icons=true&locale=en" alt="phevyy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phevyy&" alt="phevyy" /></p>
+
+![snake gif](https://github.com/phevyy/phevyy/blob/output/github-contribution-grid-snake.gif)
