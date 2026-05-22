@@ -25,7 +25,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 4th-year Computer Engineering student at **Necmettin Erbakan University**.
-- 🔭 Currently working on **AskMed** (medical app w ai) and a custom **Password Manager with 2FA**.
+- 🔭 Currently working on **AskMed** (medical app w ai) and a custom **Syncore**.
 - 🌱 Deepening my knowledge in **Cybersecurity** and **Artificial Intelligence**.
 
 
