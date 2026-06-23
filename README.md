@@ -1,22 +1,16 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d0ffbf53-477c-440c-916c-1b618881152b" width="100%" alt="MasterHead"/>
+<img width="1600" height="400" alt="banner" src="https://github.com/user-attachments/assets/66637a47-1e1b-411b-bd9e-55a4baaf4cc0" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Fikret Emre</h1>
-<h3 align="center">Computer Engineering Student | Python | Cybersecurity & AI Enthusiast</h3>
+<h3 align="center">Computer Engineer | Cybersecurity & Python Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fikret-emre-sınmaz-5b102b234/" target="_blank">
+  <a href="https://www.linkedin.com/in/fikret-emre-sinmaz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:fikreddemre@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/femre.sinmaz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.gg/phevy" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
@@ -24,24 +18,29 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 4th-year Computer Engineering student at **Necmettin Erbakan University**.
-- 🔭 Currently working on **AskMed** (medical app w ai) and a custom **Syncore**.
+- 🎓 Computer Engineering graduate from **Necmettin Erbakan University**.
+- 🔭 Currently developing **SynCore**, a secure cross-platform password vault with QR-based 2FA (graduation project).
+- 🛠️ Other projects: **ParkGuard** (YOLO-based detection system) and **SybilShield** (network security simulation).
+- ⚡ I integrate AI-assisted workflows into my development process to prototype, debug, and iterate faster.
 - 🌱 Deepening my knowledge in **Cybersecurity** and **Artificial Intelligence**.
-
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a> &nbsp;
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/> </a> &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a> &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a> &nbsp;
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" alt="kalilinux" width="45" height="45"/> </a> &nbsp;
-  <a href="https://www.espressif.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/espressif/E02322" alt="esp32" width="45" height="45"/> </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/> </a> &nbsp;
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a> &nbsp;
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="45" height="45"/> </a> &nbsp;
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/> </a> &nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/> </a> &nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/> </a> &nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/> </a> &nbsp;
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" alt="kalilinux" width="45" height="45"/> </a>
 </p>
 
+---
 
 ### 📊 GitHub Stats
 
