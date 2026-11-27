@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Fikret Emre Sınmaz — Computer Engineer | Network &amp; Security">
+<title>Fikret Emre Sınmaz — Computer Engineer | Network &amp; Security</title>
+<defs>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+    <stop offset="0" stop-color="#ff2bd6"/>
+    <stop offset="0.5" stop-color="#b026ff"/>
+    <stop offset="1" stop-color="#00f0ff"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="0 0;2 0" dur="8s" repeatCount="indefinite"/>
+  </linearGradient>
+  <linearGradient id="neonStatic" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ff2bd6"/>
+    <stop offset="0.5" stop-color="#b026ff"/>
+    <stop offset="1" stop-color="#00f0ff"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="6" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<defs>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#b026ff" stroke-opacity="0.10"/>
+  </pattern>
+  <radialGradient id="gl" cx="0.15" cy="0.3" r="0.6"><stop offset="0" stop-color="#b026ff" stop-opacity="0.35"/><stop offset="1" stop-color="#b026ff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="gr" cx="0.8" cy="0.7" r="0.5"><stop offset="0" stop-color="#00f0ff" stop-opacity="0.18"/><stop offset="1" stop-color="#00f0ff" stop-opacity="0"/></radialGradient>
+  <clipPath id="frame"><rect width="1200" height="400" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="400" fill="#0b0418"/>
+<rect width="1200" height="400" fill="url(#grid)"/>
+<rect width="1200" height="400" fill="url(#gl)"/><rect width="1200" height="400" fill="url(#gr)"/>
+<rect x="0" y="-10" width="1200" height="3" fill="#00f0ff" opacity="0.07"><animate attributeName="y" values="-10;410" dur="6s" repeatCount="indefinite"/></rect>
+<text x="60" y="95" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="18" fill="#00f0ff">&gt; ssh admin@phevyy</text>
+<rect x="246" y="80" width="10" height="19" fill="#00f0ff"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect>
+<text x="58" y="168" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="2" fill="url(#neon)" filter="url(#glow)">FIKRET EMRE</text>
+<text x="58" y="236" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="2" fill="url(#neon)" filter="url(#glow)">SINMAZ</text>
+<text x="60" y="284" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#e8dcff">Computer Engineer <tspan fill="#ff2bd6">|</tspan> Network &amp; Security</text>
+<g><rect x="60" y="314" width="100" height="30" rx="15" fill="#ff2bd6" fill-opacity="0.10" stroke="#ff2bd6" stroke-width="1.5"><animate attributeName="fill-opacity" values="0.08;0.28;0.08" dur="3s" begin="0.0s" repeatCount="indefinite"/></rect><text x="110" y="334" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="14" fill="#e8dcff">FortiGate</text></g>
+<g><rect x="170.5" y="314" width="100" height="30" rx="15" fill="#b026ff" fill-opacity="0.10" stroke="#b026ff" stroke-width="1.5"><animate attributeName="fill-opacity" values="0.08;0.28;0.08" dur="3s" begin="0.5s" repeatCount="indefinite"/></rect><text x="221" y="334" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="14" fill="#e8dcff">Cisco IOS</text></g>
+<g><rect x="281.0" y="314" width="58" height="30" rx="15" fill="#00f0ff" fill-opacity="0.10" stroke="#00f0ff" stroke-width="1.5"><animate attributeName="fill-opacity" values="0.08;0.28;0.08" dur="3s" begin="1.0s" repeatCount="indefinite"/></rect><text x="310" y="334" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="14" fill="#e8dcff">OSPF</text></g>
+<g><rect x="349.0" y="314" width="58" height="30" rx="15" fill="#ff2bd6" fill-opacity="0.10" stroke="#ff2bd6" stroke-width="1.5"><animate attributeName="fill-opacity" values="0.08;0.28;0.08" dur="3s" begin="1.5s" repeatCount="indefinite"/></rect><text x="378" y="334" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="14" fill="#e8dcff">VLAN</text></g>
+<g><rect x="417.0" y="314" width="50" height="30" rx="15" fill="#b026ff" fill-opacity="0.10" stroke="#b026ff" stroke-width="1.5"><animate attributeName="fill-opacity" values="0.08;0.28;0.08" dur="3s" begin="2.0s" repeatCount="indefinite"/></rect><text x="442" y="334" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="14" fill="#e8dcff">ACL</text></g>
+<g><rect x="476.5" y="314" width="75" height="30" rx="15" fill="#00f0ff" fill-opacity="0.10" stroke="#00f0ff" stroke-width="1.5"><animate attributeName="fill-opacity" values="0.08;0.28;0.08" dur="3s" begin="2.5s" repeatCount="indefinite"/></rect><text x="514" y="334" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="14" fill="#e8dcff">Python</text></g>
+<defs><path id="e1" d="M900 72 V115"/><path id="e2" d="M900 155 V195"/><path id="e3" d="M880 235 L790 272"/><path id="e4" d="M920 235 L1010 272"/><path id="e5" d="M760 308 L708 346"/><path id="e6" d="M780 308 L832 346"/><path id="e7" d="M1020 308 L968 346"/><path id="e8" d="M1040 308 L1092 346"/></defs>
+<path d="M900 72 V115" stroke="#b026ff" stroke-opacity="0.45" stroke-width="2" fill="none"/>
+<path d="M900 72 V115" stroke="#00f0ff" stroke-opacity="0.6" stroke-width="2" fill="none" stroke-dasharray="4 12"><animate attributeName="stroke-dashoffset" values="32;0" dur="1.2s" repeatCount="indefinite"/></path>
+<path d="M900 155 V195" stroke="#b026ff" stroke-opacity="0.45" stroke-width="2" fill="none"/>
+<path d="M900 155 V195" stroke="#00f0ff" stroke-opacity="0.6" stroke-width="2" fill="none" stroke-dasharray="4 12"><animate attributeName="stroke-dashoffset" values="32;0" dur="1.2s" repeatCount="indefinite"/></path>
+<path d="M880 235 L790 272" stroke="#b026ff" stroke-opacity="0.45" stroke-width="2" fill="none"/>
+<path d="M880 235 L790 272" stroke="#00f0ff" stroke-opacity="0.6" stroke-width="2" fill="none" stroke-dasharray="4 12"><animate attributeName="stroke-dashoffset" values="32;0" dur="1.2s" repeatCount="indefinite"/></path>
+<path d="M920 235 L1010 272" stroke="#b026ff" stroke-opacity="0.45" stroke-width="2" fill="none"/>
+<path d="M920 235 L1010 272" stroke="#00f0ff" stroke-opacity="0.6" stroke-width="2" fill="none" stroke-dasharray="4 12"><animate attributeName="stroke-dashoffset" values="32;0" dur="1.2s" repeatCount="indefinite"/></path>
+<path d="M760 308 L708 346" stroke="#b026ff" stroke-opacity="0.45" stroke-width="2" fill="none"/>
+<path d="M760 308 L708 346" stroke="#00f0ff" stroke-opacity="0.6" stroke-width="2" fill="none" stroke-dasharray="4 12"><animate attributeName="stroke-dashoffset" values="32;0" dur="1.2s" repeatCount="indefinite"/></path>
+<path d="M780 308 L832 346" stroke="#b026ff" stroke-opacity="0.45" stroke-width="2" fill="none"/>
+<path d="M780 308 L832 346" stroke="#00f0ff" stroke-opacity="0.6" stroke-width="2" fill="none" stroke-dasharray="4 12"><animate attributeName="stroke-dashoffset" values="32;0" dur="1.2s" repeatCount="indefinite"/></path>
+<path d="M1020 308 L968 346" stroke="#b026ff" stroke-opacity="0.45" stroke-width="2" fill="none"/>
+<path d="M1020 308 L968 346" stroke="#00f0ff" stroke-opacity="0.6" stroke-width="2" fill="none" stroke-dasharray="4 12"><animate attributeName="stroke-dashoffset" values="32;0" dur="1.2s" repeatCount="indefinite"/></path>
+<path d="M1040 308 L1092 346" stroke="#b026ff" stroke-opacity="0.45" stroke-width="2" fill="none"/>
+<path d="M1040 308 L1092 346" stroke="#00f0ff" stroke-opacity="0.6" stroke-width="2" fill="none" stroke-dasharray="4 12"><animate attributeName="stroke-dashoffset" values="32;0" dur="1.2s" repeatCount="indefinite"/></path>
+<circle r="4" fill="#00f0ff" filter="url(#glow)"><animateMotion dur="1.6s" begin="0s" repeatCount="indefinite"><mpath xlink:href="#e1"/></animateMotion></circle>
+<circle r="4" fill="#ff2bd6" filter="url(#glow)"><animateMotion dur="1.6s" begin="0.8s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath xlink:href="#e1"/></animateMotion></circle>
+<circle r="4" fill="#00f0ff" filter="url(#glow)"><animateMotion dur="1.4s" begin="0.3s" repeatCount="indefinite"><mpath xlink:href="#e2"/></animateMotion></circle>
+<circle r="4" fill="#ff2bd6" filter="url(#glow)"><animateMotion dur="1.4s" begin="1.0s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath xlink:href="#e2"/></animateMotion></circle>
+<circle r="4" fill="#00f0ff" filter="url(#glow)"><animateMotion dur="1.8s" begin="0.6s" repeatCount="indefinite"><mpath xlink:href="#e3"/></animateMotion></circle>
+<circle r="4" fill="#00f0ff" filter="url(#glow)"><animateMotion dur="1.8s" begin="1.2s" repeatCount="indefinite"><mpath xlink:href="#e4"/></animateMotion></circle>
+<circle r="4" fill="#ff2bd6" filter="url(#glow)"><animateMotion dur="1.8s" begin="1.5s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath xlink:href="#e3"/></animateMotion></circle>
+<circle r="4" fill="#ff2bd6" filter="url(#glow)"><animateMotion dur="1.8s" begin="0.2s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath xlink:href="#e4"/></animateMotion></circle>
+<circle r="4" fill="#00f0ff" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.9s" repeatCount="indefinite"><mpath xlink:href="#e5"/></animateMotion></circle>
+<circle r="4" fill="#00f0ff" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.4s" repeatCount="indefinite"><mpath xlink:href="#e6"/></animateMotion></circle>
+<circle r="4" fill="#00f0ff" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.3s" repeatCount="indefinite"><mpath xlink:href="#e7"/></animateMotion></circle>
+<circle r="4" fill="#00f0ff" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.7s" repeatCount="indefinite"><mpath xlink:href="#e8"/></animateMotion></circle>
+<circle r="4" fill="#ff2bd6" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.6s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath xlink:href="#e6"/></animateMotion></circle>
+<circle r="4" fill="#ff2bd6" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.1s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath xlink:href="#e7"/></animateMotion></circle>
+<path d="M862 72 H938 A15 15 0 0 0 934 44 A21 21 0 0 0 896 34 A17 17 0 0 0 866 46 A13 13 0 0 0 862 72 Z" fill="#140a2e" stroke="#00f0ff" stroke-width="2" filter="url(#glow)"/>
+<text x="900" y="63" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="11" fill="#e8dcff">INTERNET</text>
+<rect x="825.0" y="115.0" width="150" height="40" rx="8" fill="#140a2e" stroke="#ff2bd6" stroke-width="2" filter="url(#glow)"/><text x="837.0" y="139" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="12" font-weight="bold" fill="#e8dcff">FORTIGATE</text><circle cx="963" cy="135" r="2.5" fill="#ff2bd6"><animate attributeName="opacity" values="1;0.15;1" dur="0.60s" repeatCount="indefinite"/></circle><circle cx="954" cy="135" r="2.5" fill="#00f0ff"><animate attributeName="opacity" values="1;0.15;1" dur="0.97s" repeatCount="indefinite"/></circle><circle cx="945" cy="135" r="2.5" fill="#ff2bd6"><animate attributeName="opacity" values="1;0.15;1" dur="1.34s" repeatCount="indefinite"/></circle>
+<rect x="825.0" y="195.0" width="150" height="40" rx="8" fill="#140a2e" stroke="#b026ff" stroke-width="2" filter="url(#glow)"/><text x="837.0" y="219" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="12" font-weight="bold" fill="#e8dcff">CORE-L3</text><circle cx="963" cy="215" r="2.5" fill="#ff2bd6"><animate attributeName="opacity" values="1;0.15;1" dur="0.60s" repeatCount="indefinite"/></circle><circle cx="954" cy="215" r="2.5" fill="#00f0ff"><animate attributeName="opacity" values="1;0.15;1" dur="0.97s" repeatCount="indefinite"/></circle><circle cx="945" cy="215" r="2.5" fill="#ff2bd6"><animate attributeName="opacity" values="1;0.15;1" dur="1.34s" repeatCount="indefinite"/></circle><circle cx="936" cy="215" r="2.5" fill="#00f0ff"><animate attributeName="opacity" values="1;0.15;1" dur="0.81s" repeatCount="indefinite"/></circle>
+<rect x="710.0" y="272.0" width="120" height="36" rx="8" fill="#140a2e" stroke="#00f0ff" stroke-width="2" filter="url(#glow)"/><text x="722.0" y="294" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="12" font-weight="bold" fill="#e8dcff">ACC-SW1</text><circle cx="818" cy="290" r="2.5" fill="#ff2bd6"><animate attributeName="opacity" values="1;0.15;1" dur="1.37s" repeatCount="indefinite"/></circle><circle cx="809" cy="290" r="2.5" fill="#00f0ff"><animate attributeName="opacity" values="1;0.15;1" dur="0.84s" repeatCount="indefinite"/></circle><circle cx="800" cy="290" r="2.5" fill="#ff2bd6"><animate attributeName="opacity" values="1;0.15;1" dur="1.21s" repeatCount="indefinite"/></circle>
+<rect x="970.0" y="272.0" width="120" height="36" rx="8" fill="#140a2e" stroke="#00f0ff" stroke-width="2" filter="url(#glow)"/><text x="982.0" y="294" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="12" font-weight="bold" fill="#e8dcff">ACC-SW2</text><circle cx="1078" cy="290" r="2.5" fill="#ff2bd6"><animate attributeName="opacity" values="1;0.15;1" dur="0.73s" repeatCount="indefinite"/></circle><circle cx="1069" cy="290" r="2.5" fill="#00f0ff"><animate attributeName="opacity" values="1;0.15;1" dur="1.10s" repeatCount="indefinite"/></circle><circle cx="1060" cy="290" r="2.5" fill="#ff2bd6"><animate attributeName="opacity" values="1;0.15;1" dur="1.47s" repeatCount="indefinite"/></circle>
+<text x="985" y="179" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="11" fill="#c77dff">OSPF AREA 0</text>
+<text x="985" y="102" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="11" fill="#ff2bd6">POLICY / NAT / VPN</text>
+<text x="770" y="262" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="10" fill="#6b5a8e">VLAN 10 · 20</text>
+<text x="1030" y="262" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="10" fill="#6b5a8e">VLAN 30 · 40</text>
+<text x="680" y="230" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="11" fill="#c77dff">802.1Q TRUNK</text>
+<rect x="682" y="348" width="36" height="22" rx="3" fill="#140a2e" stroke="#00f0ff" stroke-width="1.5"/><rect x="687" y="352" width="26" height="14" fill="#00f0ff" opacity="0.25"><animate attributeName="opacity" values="0.15;0.5;0.15" dur="2.0s" repeatCount="indefinite"/></rect><path d="M700 370 V377 M691 378 H709" stroke="#00f0ff" stroke-width="1.5"/>
+<rect x="822" y="348" width="36" height="22" rx="3" fill="#140a2e" stroke="#00f0ff" stroke-width="1.5"/><rect x="827" y="352" width="26" height="14" fill="#00f0ff" opacity="0.25"><animate attributeName="opacity" values="0.15;0.5;0.15" dur="2.4s" repeatCount="indefinite"/></rect><path d="M840 370 V377 M831 378 H849" stroke="#00f0ff" stroke-width="1.5"/>
+<rect x="942" y="348" width="36" height="22" rx="3" fill="#140a2e" stroke="#00f0ff" stroke-width="1.5"/><rect x="947" y="352" width="26" height="14" fill="#00f0ff" opacity="0.25"><animate attributeName="opacity" values="0.15;0.5;0.15" dur="2.8s" repeatCount="indefinite"/></rect><path d="M960 370 V377 M951 378 H969" stroke="#00f0ff" stroke-width="1.5"/>
+<rect x="1082" y="348" width="36" height="22" rx="3" fill="#140a2e" stroke="#00f0ff" stroke-width="1.5"/><rect x="1087" y="352" width="26" height="14" fill="#00f0ff" opacity="0.25"><animate attributeName="opacity" values="0.15;0.5;0.15" dur="3.2s" repeatCount="indefinite"/></rect><path d="M1100 370 V377 M1091 378 H1109" stroke="#00f0ff" stroke-width="1.5"/>
+</g>
+<rect x="1" y="1" width="1198" height="398" rx="17" fill="none" stroke="url(#neon)" stroke-width="2" opacity="0.9"/>
+</svg>

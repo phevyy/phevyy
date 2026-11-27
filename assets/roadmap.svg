@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="210" viewBox="0 0 900 210" role="img" aria-label="Network learning path">
+<title>Network learning path</title>
+<defs>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+    <stop offset="0" stop-color="#ff2bd6"/>
+    <stop offset="0.5" stop-color="#b026ff"/>
+    <stop offset="1" stop-color="#00f0ff"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="0 0;2 0" dur="8s" repeatCount="indefinite"/>
+  </linearGradient>
+  <linearGradient id="neonStatic" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ff2bd6"/>
+    <stop offset="0.5" stop-color="#b026ff"/>
+    <stop offset="1" stop-color="#00f0ff"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="6" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect x="1" y="1" width="898" height="208" rx="14" fill="#0b0418" stroke="#2a1650" stroke-width="2"/>
+<path id="track" d="M90 70 H810" stroke="#b026ff" stroke-opacity="0.35" stroke-width="4" fill="none"/>
+<path d="M90 70 H810" stroke="url(#neonStatic)" stroke-width="4" fill="none" stroke-dasharray="720" stroke-dashoffset="720"><animate attributeName="stroke-dashoffset" values="720;0;0" keyTimes="0;0.7;1" dur="5s" repeatCount="indefinite"/></path>
+<circle r="6" fill="#fff" filter="url(#softglow)"><animateMotion dur="5s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.7;1" calcMode="linear"><mpath xlink:href="#track"/></animateMotion></circle>
+<circle cx="90" cy="70" r="14" fill="#140a2e" stroke="#00f0ff" stroke-width="3" filter="url(#glow)"/><circle cx="90" cy="70" r="5" fill="#00f0ff"/>
+<text x="90" y="120" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="800" fill="#e8dcff">SWITCHING</text>
+<text x="90" y="142" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="12" fill="#c77dff">VLAN · DTP · VTP · STP</text>
+<rect x="67.0" y="156" width="46" height="22" rx="11" fill="#00f0ff" fill-opacity="0.15" stroke="#00f0ff"/><text x="90" y="171" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="11" font-weight="bold" fill="#00f0ff">LAB</text>
+<circle cx="270" cy="70" r="14" fill="#140a2e" stroke="#00f0ff" stroke-width="3" filter="url(#glow)"/><circle cx="270" cy="70" r="5" fill="#00f0ff"/>
+<text x="270" y="120" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="800" fill="#e8dcff">ROUTING</text>
+<text x="270" y="142" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="12" fill="#c77dff">OSPF · Inter-VLAN</text>
+<rect x="247.0" y="156" width="46" height="22" rx="11" fill="#00f0ff" fill-opacity="0.15" stroke="#00f0ff"/><text x="270" y="171" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="11" font-weight="bold" fill="#00f0ff">LAB</text>
+<circle cx="450" cy="70" r="14" fill="#140a2e" stroke="#00f0ff" stroke-width="3" filter="url(#glow)"/><circle cx="450" cy="70" r="5" fill="#00f0ff"/>
+<text x="450" y="120" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="800" fill="#e8dcff">SECURITY</text>
+<text x="450" y="142" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="12" fill="#c77dff">ACL · NAT</text>
+<rect x="427.0" y="156" width="46" height="22" rx="11" fill="#00f0ff" fill-opacity="0.15" stroke="#00f0ff"/><text x="450" y="171" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="11" font-weight="bold" fill="#00f0ff">LAB</text>
+<circle cx="630" cy="70" r="14" fill="none" stroke="#ff2bd6" stroke-width="2"><animate attributeName="r" values="14;34" dur="2s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur="2s" begin="0s" repeatCount="indefinite"/></circle>
+<circle cx="630" cy="70" r="14" fill="none" stroke="#ff2bd6" stroke-width="2"><animate attributeName="r" values="14;34" dur="2s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur="2s" begin="1s" repeatCount="indefinite"/></circle>
+<circle cx="630" cy="70" r="14" fill="#140a2e" stroke="#ff2bd6" stroke-width="3" filter="url(#glow)"/><circle cx="630" cy="70" r="5" fill="#ff2bd6"/>
+<text x="630" y="120" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="800" fill="#e8dcff">FORTIGATE</text>
+<text x="630" y="142" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="12" fill="#c77dff">Policy · VPN · SD-WAN</text>
+<rect x="607.0" y="156" width="46" height="22" rx="11" fill="#ff2bd6" fill-opacity="0.15" stroke="#ff2bd6"/><text x="630" y="171" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="11" font-weight="bold" fill="#ff2bd6">NOW</text>
+<circle cx="810" cy="70" r="14" fill="#140a2e" stroke="#b026ff" stroke-width="3" filter="url(#glow)"/><circle cx="810" cy="70" r="5" fill="#b026ff"/>
+<text x="810" y="120" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="800" fill="#e8dcff">NSE 4</text>
+<text x="810" y="142" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="12" fill="#c77dff">FCP FortiGate Admin</text>
+<rect x="783.0" y="156" width="54" height="22" rx="11" fill="#b026ff" fill-opacity="0.15" stroke="#b026ff"/><text x="810" y="171" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="11" font-weight="bold" fill="#b026ff">NEXT</text>
+</svg>

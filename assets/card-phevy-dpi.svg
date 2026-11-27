@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="440" height="180" viewBox="0 0 440 180" role="img" aria-label="phevy_dpi — project">
+<title>phevy_dpi — project</title>
+<defs>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+    <stop offset="0" stop-color="#ff2bd6"/>
+    <stop offset="0.5" stop-color="#b026ff"/>
+    <stop offset="1" stop-color="#00f0ff"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="0 0;2 0" dur="8s" repeatCount="indefinite"/>
+  </linearGradient>
+  <linearGradient id="neonStatic" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ff2bd6"/>
+    <stop offset="0.5" stop-color="#b026ff"/>
+    <stop offset="1" stop-color="#00f0ff"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="6" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect x="1" y="1" width="438" height="178" rx="14" fill="#0b0418" stroke="#2a1650" stroke-width="2"/>
+<rect x="1" y="1" width="438" height="178" rx="14" fill="none" stroke="url(#neonStatic)" stroke-width="2.5" pathLength="100" stroke-dasharray="22 78" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="100;0" dur="5s" repeatCount="indefinite"/></rect>
+<circle cx="34" cy="42" r="7" fill="#ff2bd6" filter="url(#glow)"><animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite"/></circle>
+<text x="52" y="50" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="800" fill="url(#neon)">phevy_dpi</text>
+<rect x="328" y="28" width="88" height="24" rx="12" fill="#ff2bd6" fill-opacity="0.12" stroke="#ff2bd6"/><text x="372.0" y="44" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="11" fill="#ff2bd6">NETWORKING</text>
+<text x="26" y="86" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#e8dcff">ISP-agnostic DPI bypass for Discord on</text>
+<text x="26" y="107" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#e8dcff">Windows — not a VPN, no added ping.</text>
+<text x="26" y="128" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#e8dcff"></text>
+<circle cx="31" cy="155" r="5" fill="#ff2bd6"/><text x="41" y="160" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="12.5" fill="#e8dcff">Windows</text>
+<circle cx="115.80000000000001" cy="155" r="5" fill="#b026ff"/><text x="125.80000000000001" y="160" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="12.5" fill="#e8dcff">DPI</text>
+<circle cx="171.0" cy="155" r="5" fill="#00f0ff"/><text x="181.0" y="160" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="12.5" fill="#e8dcff">Networking</text>
+</svg>
