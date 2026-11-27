@@ -84,14 +84,10 @@
   <img src="https://raw.githubusercontent.com/phevyy/phevyy/output/streak.svg" width="99%" alt="Contribution streak" />
 </p>
 
-## 🐍 Contribution Graph
+## 🎮 Firewall Defense
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phevyy/phevyy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phevyy/phevyy/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/phevyy/phevyy/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/phevyy/phevyy/output/game.svg" width="100%" alt="Firewall Defense: a defender ship sweeps the contribution graph and blocks every packet" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:b026ff,100:ff2bd6&height=120&section=footer" width="100%" alt="" />
