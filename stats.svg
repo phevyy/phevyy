@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="495" height="220" viewBox="0 0 495 220" role="img" aria-label="GitHub stats for phevyy">
+<title>GitHub stats for phevyy</title>
+<defs>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+    <stop offset="0" stop-color="#ff2bd6"/>
+    <stop offset="0.5" stop-color="#b026ff"/>
+    <stop offset="1" stop-color="#00f0ff"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="0 0;2 0" dur="8s" repeatCount="indefinite"/>
+  </linearGradient>
+  <linearGradient id="neonStatic" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ff2bd6"/>
+    <stop offset="0.5" stop-color="#b026ff"/>
+    <stop offset="1" stop-color="#00f0ff"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="6" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect x="1" y="1" width="493" height="218" rx="14" fill="#0b0418" stroke="#b026ff" stroke-opacity="0.6" stroke-width="2"/>
+<text x="24" y="38" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="15" fill="#00f0ff">phevyy# <tspan fill="#e8dcff">show interface stats</tspan></text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.4s" fill="freeze"/><rect x="24" y="64" width="8" height="8" rx="2" fill="#ff2bd6" filter="url(#glow)"/><text x="42" y="74" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#e8dcff">Total Stars</text><text x="300" y="74" text-anchor="end" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="14" font-weight="bold" fill="#ff2bd6">6</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.35s" dur="0.4s" fill="freeze"/><rect x="24" y="88" width="8" height="8" rx="2" fill="#00f0ff" filter="url(#glow)"/><text x="42" y="98" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#e8dcff">Commits (this year)</text><text x="300" y="98" text-anchor="end" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="14" font-weight="bold" fill="#00f0ff">81</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.50s" dur="0.4s" fill="freeze"/><rect x="24" y="112" width="8" height="8" rx="2" fill="#b026ff" filter="url(#glow)"/><text x="42" y="122" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#e8dcff">Pull Requests</text><text x="300" y="122" text-anchor="end" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="14" font-weight="bold" fill="#b026ff">0</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.4s" fill="freeze"/><rect x="24" y="136" width="8" height="8" rx="2" fill="#c77dff" filter="url(#glow)"/><text x="42" y="146" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#e8dcff">Issues</text><text x="300" y="146" text-anchor="end" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="14" font-weight="bold" fill="#c77dff">0</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.80s" dur="0.4s" fill="freeze"/><rect x="24" y="160" width="8" height="8" rx="2" fill="#ff2bd6" filter="url(#glow)"/><text x="42" y="170" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#e8dcff">Public Repos</text><text x="300" y="170" text-anchor="end" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="14" font-weight="bold" fill="#ff2bd6">19</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.95s" dur="0.4s" fill="freeze"/><rect x="24" y="184" width="8" height="8" rx="2" fill="#00f0ff" filter="url(#glow)"/><text x="42" y="194" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#e8dcff">Contributed To</text><text x="300" y="194" text-anchor="end" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="14" font-weight="bold" fill="#00f0ff">0</text></g>
+<circle cx="400" cy="125" r="52" fill="none" stroke="#140a2e" stroke-width="10"/>
+<circle cx="400" cy="125" r="52" fill="none" stroke="url(#neonStatic)" stroke-width="10" stroke-linecap="round" stroke-dasharray="326.7" stroke-dashoffset="326.7" transform="rotate(-90 400 125)" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="326.7" to="0" dur="1.6s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/></circle>
+<text x="400" y="129" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="800" fill="url(#neon)">133</text>
+<text x="400" y="147" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="10" fill="#6b5a8e">CONTRIBUTIONS</text>
+</svg>

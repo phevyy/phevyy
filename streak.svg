@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Contribution streak">
+<title>Contribution streak</title>
+<defs>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+    <stop offset="0" stop-color="#ff2bd6"/>
+    <stop offset="0.5" stop-color="#b026ff"/>
+    <stop offset="1" stop-color="#00f0ff"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="0 0;2 0" dur="8s" repeatCount="indefinite"/>
+  </linearGradient>
+  <linearGradient id="neonStatic" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ff2bd6"/>
+    <stop offset="0.5" stop-color="#b026ff"/>
+    <stop offset="1" stop-color="#00f0ff"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="6" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect x="1" y="1" width="998" height="238" rx="14" fill="#0b0418" stroke="#b026ff" stroke-opacity="0.6" stroke-width="2"/>
+<text x="167" y="82" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="800" fill="url(#neon)">133</text>
+<text x="167" y="112" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="13" font-weight="bold" fill="#00f0ff">TOTAL CONTRIBUTIONS</text>
+<text x="167" y="132" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="11" fill="#6b5a8e">Mar 08, 2024 – Present</text>
+<circle cx="500" cy="68" r="40" fill="none" stroke="#ff2bd6" stroke-width="2"><animate attributeName="r" values="40;58" dur="2.4s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2.4s" begin="0s" repeatCount="indefinite"/></circle>
+<circle cx="500" cy="68" r="40" fill="none" stroke="#ff2bd6" stroke-width="2"><animate attributeName="r" values="40;58" dur="2.4s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="500" cy="68" r="40" fill="#140a2e" stroke="#ff2bd6" stroke-width="4" filter="url(#glow)"/>
+<text x="500" y="80" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="800" fill="#e8dcff">1</text>
+<text x="500" y="132" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="13" font-weight="bold" fill="#ff2bd6">CURRENT STREAK</text>
+<text x="500" y="152" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="11" fill="#6b5a8e">Nov 27 – Nov 27</text>
+<text x="833" y="82" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="800" fill="url(#neon)">2</text>
+<text x="833" y="112" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="13" font-weight="bold" fill="#b026ff">LONGEST STREAK</text>
+<text x="833" y="132" text-anchor="middle" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="11" fill="#6b5a8e">Mar 06 – Mar 07</text>
+<line x1="333" y1="30" x2="333" y2="150" stroke="#b026ff" stroke-opacity="0.3"/><line x1="667" y1="30" x2="667" y2="150" stroke="#b026ff" stroke-opacity="0.3"/>
+<linearGradient id="fillg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff2bd6" stop-opacity="0.35"/><stop offset="1" stop-color="#b026ff" stop-opacity="0"/></linearGradient>
+<text x="30" y="168" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="10" fill="#6b5a8e">TRAFFIC · weekly contributions · last 52 weeks</text>
+<polygon points="30,226 30.0,226.0 48.4,195.4 66.9,226.0 85.3,226.0 103.7,217.7 122.2,226.0 140.6,226.0 159.0,226.0 177.5,226.0 195.9,226.0 214.3,226.0 232.7,214.9 251.2,226.0 269.6,226.0 288.0,226.0 306.5,220.4 324.9,226.0 343.3,226.0 361.8,226.0 380.2,226.0 398.6,226.0 417.1,226.0 435.5,226.0 453.9,226.0 472.4,176.0 490.8,176.0 509.2,226.0 527.6,226.0 546.1,226.0 564.5,212.1 582.9,226.0 601.4,226.0 619.8,226.0 638.2,226.0 656.7,226.0 675.1,226.0 693.5,226.0 712.0,226.0 730.4,226.0 748.8,226.0 767.3,226.0 785.7,226.0 804.1,226.0 822.5,217.7 841.0,226.0 859.4,226.0 877.8,226.0 896.3,184.3 914.7,226.0 933.1,226.0 951.6,226.0 970.0,198.2 970,226" fill="url(#fillg)"/>
+<polyline points="30.0,226.0 48.4,195.4 66.9,226.0 85.3,226.0 103.7,217.7 122.2,226.0 140.6,226.0 159.0,226.0 177.5,226.0 195.9,226.0 214.3,226.0 232.7,214.9 251.2,226.0 269.6,226.0 288.0,226.0 306.5,220.4 324.9,226.0 343.3,226.0 361.8,226.0 380.2,226.0 398.6,226.0 417.1,226.0 435.5,226.0 453.9,226.0 472.4,176.0 490.8,176.0 509.2,226.0 527.6,226.0 546.1,226.0 564.5,212.1 582.9,226.0 601.4,226.0 619.8,226.0 638.2,226.0 656.7,226.0 675.1,226.0 693.5,226.0 712.0,226.0 730.4,226.0 748.8,226.0 767.3,226.0 785.7,226.0 804.1,226.0 822.5,217.7 841.0,226.0 859.4,226.0 877.8,226.0 896.3,184.3 914.7,226.0 933.1,226.0 951.6,226.0 970.0,198.2" fill="none" stroke="url(#neonStatic)" stroke-width="2" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="2s" fill="freeze"/></polyline>
+<circle cx="970.0" cy="198.2" r="4" fill="#00f0ff" filter="url(#glow)"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+</svg>
